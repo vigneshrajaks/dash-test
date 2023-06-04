@@ -1,0 +1,14 @@
+.box-wrapper {
+  padding: 32px;
+  border-radius: 12px;
+}
+
+.leads-box-lable {
+  font-size: 22px;
+  font-weight: 500;
+}
+
+.leads-lable {
+  font-size: 48px;
+  font-weight: 700;
+}
